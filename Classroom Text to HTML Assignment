@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Text to HTML Assignment</title>
+  </head>
+  <body>
+    <h1> Kana's Desperate Attempt to Demystify HTML </h1>
+    <hr>
+    <h2> What Does HTML Stand For? </h2>
+    <p> HTML stands for HyperText Markup Language. </p>
+      <ul>
+        <li> Hypertext - "Hypertext" refers to links that connect web pages to one another, either within a single website or between websites. </li>
+        <p> You can use hypertext to jump to <a href="#joke">text within this page</a> and to different media, like Youtube, to watch <a href="https://www.youtube.com/watch?v=cVVbxOx3vec&frags=pl%2Cwn">cute cat videos</a>. </p>
+        <li> Markup - I'm not sure, to be perfectly honest, but I think it's referring to how HTML "marks up" pages to create structure.
+      </ul>
+    <h2> Why is HTML Important? </h3>
+    <p> HTML describes the structure of a web page. Without it everything looks horrible. </p>
+      <h3> HTML Elements and HTML Tags </h3>
+      <p> HTML elements are the building blocks of HTML pages.
+      <ul>
+        <li> An HTML element is set off from other text in a document by "tags". </li>
+        <li> Tags consist of the element name surrounded by "<" and ">". </li>
+        <li> HTML5, the current standard for HTML, has roughly 100 tags. </li>
+      </ul>
+      <h3> HTML Is Like a Tree </h3>
+      <p> HTML has a <a href="https://www.w3schools.com/jS/pic_htmltree.gif">tree structure</a> consisting of branches and nodes. </p>
+    <h2> How Does HTML Work with Web Browsers? </h2>
+    <p> Many browsers have default styles for the appearance of the document based on the meaning of the tag. Browsers do not display the HTML tags, but use them to interpret the content of the page. </p>
+    <h2> And there you have it! </h2>
+      <h3> Terms Kana Couldn't Use...</h3>
+      <ol>
+        <li> Interaction </li>
+        <li> Classes </li>
+      </ol>
+      <p> How should I incorporate the above terms within the context of HTML? </p>
+    <hr>
+    <h2> <a id="joke"> How do you get a Pikachu on a bus? </a> </h2>
+    <p> ....You Poke'em on!</p>
+  </body>
+</html>
