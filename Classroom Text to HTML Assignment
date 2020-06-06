@@ -15,10 +15,10 @@
         <p> You can use hypertext to jump to <a href="#joke">text within this page</a> and to different media, like Youtube, to watch <a href="https://www.youtube.com/watch?v=cVVbxOx3vec&frags=pl%2Cwn">cute cat videos</a>. </p>
         <li> Markup - I'm not sure, to be perfectly honest, but I think it's referring to how HTML "marks up" pages to create structure. </li>
       </ul>
-    <h2> Why is HTML Important? </h3>
+    <h2> Why is HTML Important? </h2>
     <p> HTML describes the structure of a web page. Without it everything looks horrible. </p>
       <h3> HTML Elements and HTML Tags </h3>
-      <p> HTML elements are the building blocks of HTML pages.
+      <p> HTML elements are the building blocks of HTML pages. </p>
       <ul>
         <li> An HTML element is set off from other text in a document by "tags". </li>
         <li> Tags consist of the element name surrounded by "<" and ">". </li>
