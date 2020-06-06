@@ -13,7 +13,7 @@
       <ul>
         <li> Hypertext - "Hypertext" refers to links that connect web pages to one another, either within a single website or between websites. </li>
         <p> You can use hypertext to jump to <a href="#joke">text within this page</a> and to different media, like Youtube, to watch <a href="https://www.youtube.com/watch?v=cVVbxOx3vec&frags=pl%2Cwn">cute cat videos</a>. </p>
-        <li> Markup - I'm not sure, to be perfectly honest, but I think it's referring to how HTML "marks up" pages to create structure.
+        <li> Markup - I'm not sure, to be perfectly honest, but I think it's referring to how HTML "marks up" pages to create structure. </li>
       </ul>
     <h2> Why is HTML Important? </h3>
     <p> HTML describes the structure of a web page. Without it everything looks horrible. </p>
