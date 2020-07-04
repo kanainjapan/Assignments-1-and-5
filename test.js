@@ -1,8 +1,8 @@
 window.onload = function() {
   setTimeout(function() {
-    document.getElementByClass('.popup').style.display = 'block';
+    document.getElementByClassName('.popup').style.display = 'block';
   }, 10000);
-}
+};
 
 
 
