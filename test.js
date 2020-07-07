@@ -1,6 +1,6 @@
 window.onload = function() {
   setTimeout(function() {
-    document.getElementByClassName('.popup').style.display = 'block';
+    document.getElementsByClassName('.popup').style.display = 'block';
   }, 10000);
 };
 
