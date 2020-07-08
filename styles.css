@@ -61,3 +61,11 @@ input {
   background-color: red;
   color: white;
 }
+
+.trick {
+  font-family: sans-serif;
+}
+
+.trick img {
+  cursor: pointer;
+}
